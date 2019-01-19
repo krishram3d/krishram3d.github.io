@@ -1,2 +1,2 @@
 # krishram3d.github.io
-Test project for github pages
+Test project for publishing github pages
